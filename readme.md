@@ -97,50 +97,50 @@ By combining these technical components and frameworks, IncentaMesh creates a ro
 
 4.1 Token utility and allocation
 
-IncentaMesh introduces a native utility token, called MESH, which serves as the primary means of value exchange and incentivization within the network. The MESH token fulfills several key functions:
+IncentaMesh introduces a native utility token, called IMSH, which serves as the primary means of value exchange and incentivization within the network. The IMSH token fulfills several key functions:
 
-- Node rewards: Node operators earn MESH tokens for contributing their bandwidth and resources to the network, proportional to their node's performance and reputation.
-- Service payments: End-users use MESH tokens to pay for access to decentralized services and applications provided by service providers on the IncentaMesh network.
-- Governance participation: MESH token holders can stake their tokens to participate in network governance, voting on proposals related to protocol upgrades, fee structures, and resource allocation.
-- Network fees: A small portion of each transaction on the IncentaMesh network is collected as a network fee, denominated in MESH tokens, to support network maintenance and development.
+- Node rewards: Node operators earn IMSH tokens for contributing their bandwidth and resources to the network, proportional to their node's performance and reputation.
+- Service payments: End-users use IMSH tokens to pay for access to decentralized services and applications provided by service providers on the IncentaMesh network.
+- Governance participation: IMSH token holders can stake their tokens to participate in network governance, voting on proposals related to protocol upgrades, fee structures, and resource allocation.
+- Network fees: A small portion of each transaction on the IncentaMesh network is collected as a network fee, denominated in IMSH tokens, to support network maintenance and development.
 
-The total supply of MESH tokens is fixed at 1 billion, with the following allocation:
+The total supply of IMSH tokens is fixed at 1 billion, with the following allocation:
 
-- Node rewards: 50% (500 million) of MESH tokens are allocated to node operators as rewards for their contributions to the network over 5 years.
-- Service provider incentives: 20% (200 million) of MESH tokens are allocated to service providers as incentives for building and deploying high-quality applications and services on the IncentaMesh network.
-- Community and ecosystem development: 15% (150 million) of MESH tokens are allocated to community initiatives, grants, and partnerships to foster the growth and adoption of the IncentaMesh ecosystem.
-- Team and advisors: 10% (100 million) of MESH tokens are allocated to the IncentaMesh team and advisors, subject to a 4-year vesting schedule to align long-term interests.
-- Reserve: 5% (50 million) of MESH tokens are held in reserve for future network upgrades, contingencies, and unforeseen expenses.
+- Node rewards: 50% (500 million) of IMSH tokens are allocated to node operators as rewards for their contributions to the network over 5 years.
+- Service provider incentives: 20% (200 million) of IMSH tokens are allocated to service providers as incentives for building and deploying high-quality applications and services on the IncentaMesh network.
+- Community and ecosystem development: 15% (150 million) of IMSH tokens are allocated to community initiatives, grants, and partnerships to foster the growth and adoption of the IncentaMesh ecosystem.
+- Team and advisors: 10% (100 million) of IMSH tokens are allocated to the IncentaMesh team and advisors, subject to a 4-year vesting schedule to align long-term interests.
+- Reserve: 5% (50 million) of IMSH tokens are held in reserve for future network upgrades, contingencies, and unforeseen expenses.
 
 4.2 Reward distribution and staking mechanisms
 
-Node operators and service providers earn MESH token rewards based on their contributions to the network. Node rewards are distributed every week, calculated using a formula that takes into account factors such as:
+Node operators and service providers earn IMSH token rewards based on their contributions to the network. Node rewards are distributed every week, calculated using a formula that takes into account factors such as:
 
 - Node uptime: The percentage of time a node is online and actively contributing to the network.
 - Bandwidth contribution: The amount of data transferred by a node, both in terms of relaying data for other nodes and serving content to end-users.
 - Storage contribution: The amount of data stored by a node on behalf of the network, using IPFS and Filecoin.
 - Reputation score: A node's reputation score, based on its performance, reliability, and user feedback, influences its reward potential.
 
-Service providers can earn MESH token rewards through a combination of user payments and network incentives. IncentaMesh employs a staking mechanism to encourage service providers to deliver high-quality and reliable services:
+Service providers can earn IMSH token rewards through a combination of user payments and network incentives. IncentaMesh employs a staking mechanism to encourage service providers to deliver high-quality and reliable services:
 
-- Service providers stake a certain amount of MESH tokens when deploying their services on the network, signaling their commitment to quality and reliability.
+- Service providers stake a certain amount of IMSH tokens when deploying their services on the network, signaling their commitment to quality and reliability.
 - End-users can provide feedback and ratings for the services they use, which impact the service provider's reputation score and staking rewards.
 - Service providers with higher reputation scores and positive user feedback receive a larger share of the network's service provider incentives.
 
 4.3 Token supply and emission schedule
 
-The total supply of MESH tokens is fixed at 1 billion, with a gradual emission schedule designed to ensure a stable and predictable token supply over time:
+The total supply of IMSH tokens is fixed at 1 billion, with a gradual emission schedule designed to ensure a stable and predictable token supply over time:
 
-- Initial token distribution: 30% (300 million) of MESH tokens are distributed during the initial token offering, including the allocations for team and advisors, community and ecosystem development, and a portion of the node rewards and service provider incentives.
-- Node rewards emission: The remaining 50% (500 million) of MESH tokens allocated for node rewards are emitted over 5 years, with a gradually decreasing emission rate to incentivize early adoption and long-term commitment.
-- Service provider incentives emission: The 20% (200 million) of MESH tokens allocated for service provider incentives are emitted over 5 years, with a gradually decreasing emission rate to encourage the development and deployment of high-quality services in the early stages of the network.
-- Reserve: The 5% (50 million) of MESH tokens held in reserve are released gradually over 10 years, subject to community governance decisions and network needs.
+- Initial token distribution: 30% (300 million) of IMSH tokens are distributed during the initial token offering, including the allocations for team and advisors, community and ecosystem development, and a portion of the node rewards and service provider incentives.
+- Node rewards emission: The remaining 50% (500 million) of IMSH tokens allocated for node rewards are emitted over 5 years, with a gradually decreasing emission rate to incentivize early adoption and long-term commitment.
+- Service provider incentives emission: The 20% (200 million) of IMSH tokens allocated for service provider incentives are emitted over 5 years, with a gradually decreasing emission rate to encourage the development and deployment of high-quality services in the early stages of the network.
+- Reserve: The 5% (50 million) of IMSH tokens held in reserve are released gradually over 10 years, subject to community governance decisions and network needs.
 
 4.4 Governance and Community Involvement
 
-IncentaMesh is committed to building a decentralized and community-driven network, where MESH token holders have a say in key decisions and the direction of the project. The governance model of IncentaMesh includes:
+IncentaMesh is committed to building a decentralized and community-driven network, where IMSH token holders have a say in key decisions and the direction of the project. The governance model of IncentaMesh includes:
 
-- On-chain governance: MESH token holders can submit and vote on governance proposals through a decentralized on-chain voting mechanism, using their staked tokens as voting power.
+- On-chain governance: IMSH token holders can submit and vote on governance proposals through a decentralized on-chain voting mechanism, using their staked tokens as voting power.
 - Community forums and discussions: IncentaMesh maintains active community forums and discussion channels, where users can engage in discussions, provide feedback, and propose ideas for network improvements.
 - Grants and bounties: A portion of the community and ecosystem development allocation is used to fund grants and bounties for developers, researchers, and community members who contribute to the growth and improvement of the IncentaMesh network.
 - Transparency and accountability: IncentaMesh commits to maintaining a high level of transparency and accountability, regularly communicating with the community and providing updates on network development, financial status, and governance decisions.
